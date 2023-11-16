@@ -18,8 +18,6 @@ Este é um programa Java para manipular arquivos XSD e executar comandos para ge
 
 Certifique-se de compilar e executar o código usando Java 8.
 
-Exemplo de compilação e execução no terminal:
-
 ```bash
 O xjc (JAXB Binding Compiler) faz parte do Java Architecture for XML Binding (JAXB) e está disponível a partir do Java 6 e continua a ser suportado nas versões subsequentes do Java.
 
@@ -27,4 +25,8 @@ No entanto, é importante notar que as versões específicas podem ter melhorias
 
 Java 6: Inclui o xjc com funcionalidades básicas para geração de classes a partir de arquivos XSD.
 Java 8: Oferece melhorias no xjc, como suporte a novos recursos do XML Schema e aprimoramentos na geração de código.
+```
+Download Java 8
+```bash
+https://www.oracle.com/br/java/technologies/javase/javase8-archive-downloads.html
 ```
