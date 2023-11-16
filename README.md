@@ -36,7 +36,7 @@ https://www.oracle.com/br/java/technologies/javase/javase8-archive-downloads.htm
 ```
 ## Arquivo executável
 
-![Interface]((https://i.ibb.co/gPMjJ7K/interface-xsd-converter.png))
+![Interface](https://i.ibb.co/gPMjJ7K/interface-xsd-converter.png)
 
 ```bash
 https://github.com/jorgeRjunior/xsd-to-class-java/blob/main/XsdToClassConverter.jar
