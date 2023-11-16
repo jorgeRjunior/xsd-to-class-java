@@ -34,3 +34,11 @@ Download Java 8
 ```bash
 https://www.oracle.com/br/java/technologies/javase/javase8-archive-downloads.html
 ```
+## Arquivo executável
+```bash
+https://github.com/jorgeRjunior/xsd-to-class-java/blob/main/XsdToClassConverter.jar
+```
+Informar o caminho do arquivo xjc.exe; (Normalmente C:\Program Files (x86)\Java\jdk8u382-b05\bin\xjc.exe)
+A pasta onde esta os arquivos XSD;
+O nome do pacote, onde será criado subpastas
+
