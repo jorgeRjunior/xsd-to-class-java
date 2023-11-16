@@ -14,6 +14,10 @@ Este é um programa Java para manipular arquivos XSD e executar comandos para ge
 3. Certifique-se de que o arquivo `xmldsig-core-schema.xsd` está presente na mesma pasta que os outros arquivos XSD.
 4. Execute a classe `Xsd_to_class` para processar os arquivos XSD e gerar as classes correspondentes.
 
+## Print das classes geradas
+![Exemplo de Classe](https://i.ibb.co/3vXVSNd/exemplo-class.png)
+
+
 ## Como executar
 
 Certifique-se de compilar e executar o código usando Java 8.
