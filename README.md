@@ -35,6 +35,9 @@ Download Java 8
 https://www.oracle.com/br/java/technologies/javase/javase8-archive-downloads.html
 ```
 ## Arquivo executável
+
+![Interface]([https://i.ibb.co/3vXVSNd/exemplo-class.png](https://i.ibb.co/gPMjJ7K/interface-xsd-converter.png))
+
 ```bash
 https://github.com/jorgeRjunior/xsd-to-class-java/blob/main/XsdToClassConverter.jar
 ```
